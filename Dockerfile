@@ -5,9 +5,9 @@ RUN apk add --no-cache \
         sqlite-dev \
         libxml2-dev  \
         libxslt-dev \
-#        gcc \
-#        make \
-#        git \
+        gcc \
+        make \
+        git \
         libgcrypt-dev \
         postgresql-dev \
         bash \
